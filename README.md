@@ -7,3 +7,5 @@
 ##GoMickey
 ###Mickey-Go
 #Go-Mickey
+
+print:"Hello Mickey!"
