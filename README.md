@@ -3,6 +3,18 @@
 ## editing the file
 
 1+2
+=
+
+1+2=
+= 
+
++ Welcome
+
+\ Welcome!
+
+- welcome!
+
+_ welcome! 
 
 ## GoMickey
 ### Mickey-Go
