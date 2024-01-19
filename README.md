@@ -8,4 +8,5 @@
 ###Mickey-Go
 #Go-Mickey
 
-print:"Hello Mickey!"
+print("Hello Mickey!")
+
