@@ -8,8 +8,11 @@
 ### Mickey-Go
 # Go-Mickey
 
-print("Hello Mickey!")
-
 * Welcome!
+/ welcome!
+- welcome!
 
-print("Welcome!")
+_ welcome!
+
+1. Welcome!
+2. 
