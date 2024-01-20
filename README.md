@@ -22,9 +22,10 @@ _ welcome!
 ### Mickey-Go
 # Go-Mickey
 
-* Welcome!
-/ welcome!
-- welcome!
+*Welcome!*
+___welcome!___
+**welcome!**
+
 
 _ welcome!
 
